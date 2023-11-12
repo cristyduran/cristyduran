@@ -10,8 +10,3 @@ Skills: REACT / JS / HTML / CSS / SQL / Node.JS
 - ⚡ Fun fact: I love playing the cello! 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristyduran)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristyduran)](https://github.com/anuraghazra/github-readme-stats)
-
-
