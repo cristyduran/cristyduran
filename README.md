@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Cristina, from California, and I specialize in Software Engineering. I really enjoy creating full stack applications that make my life as a teacher easier. I'm surrently working on creating one now. Although I'm a fast learner, I enjoy specializing in Javascript libraries with an additional interest in SQL databases. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristyduran)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cristyduran/cristyduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
