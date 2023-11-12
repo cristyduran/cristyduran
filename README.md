@@ -12,7 +12,6 @@ Skills: REACT / JS / HTML / CSS / SQL / Node.JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristyduran)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/cristyduran)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristyduran)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/cristyduran)  
 
