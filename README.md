@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Cristy
 #### I am a fullstack software engineer
 
-I'm Cristina, from California, and I specialize in Software Engineering. I really enjoy creating full stack applications that make my life as a teacher easier. Although I love learning new languages, have most fun specializing in Javascript libraries with an additional interest in SQL databases. I'm also a bootcamp graduate and am open to software engineering and development positions where I can thrive as part of a team. 
+I really enjoy creating full stack applications that make my life as a teacher easier. Although I love learning new languages, have most fun specializing in Javascript libraries with an additional interest in SQL databases. I'm also a bootcamp graduate and am open to software engineering and development positions where I can thrive as part of a team. 
 
 Skills: REACT / JS / HTML / CSS / SQL / Node.JS
 
